@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_meta_climate_and_vegetations",
+  "info": {
+    "displayName": "ClimateAndVegetation"
+  },
+  "options": {},
+  "attributes": {
+    "HighestPoint": {
+      "type": "integer",
+      "min": 0
+    },
+    "AverageTemperatureSummer": {
+      "type": "integer"
+    },
+    "AverageTemperatureWinter": {
+      "type": "integer"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}
